@@ -1,53 +1,20 @@
-# New Project Template
+# Origin Trial Drafts
 
-This repository contains a template that can be used to seed a repository for a
-new Google open source project.
+[TBD]
 
-See [go/releasing](http://go/releasing) (available externally at
-https://opensource.google/docs/releasing/) for more information about
-releasing a new Google open source project.
+## I'm Preparing for a Developer Trial or Origin Trial
 
-This template uses the Apache license, as is Google's default.  See the
-documentation for instructions on using alternate license.
+The documentation produced in this stage will be minimal, focusing on accuracy and prioritizing a code example over document depth. Follow the instructions behind the appropriate link below. 
 
-## How to use this template
+* [I am implementing one or more interfaces or events](./api-instructions.md).
 
-1. Clone it from GitHub.
-    * There is no reason to fork it.
-1. Create a new local repository and copy the files from this repo into it.
-1. Modify README.md and docs/contributing.md to represent your project, not the
-   template project.
-1. Develop your new project!
+* [I am adding an interface member such as an event callback, a method, or a property](./api-instructions.md).
 
-``` shell
-git clone https://github.com/google/new-project
-mkdir my-new-thing
-cd my-new-thing
-git init
-cp -r ../new-project/* ../new-project/.github .
-git add *
-git commit -a -m 'Boilerplate for new Google open source project'
-```
+## I'm Preparing to Ship a Feature
 
-## Source Code Headers
+Do this procedure while you are preparing your feature for beta.
 
-Every file containing source code must include copyright and license
-information. This includes any JS/CSS files that you might be serving out to
-browsers. (This is to help well-intentioned people avoid accidental copying that
-doesn't comply with the license.)
-
-Apache header:
-
-    Copyright 2021 Google LLC
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-        https://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
+1. If you did not create MVP documentation during an earlier stage, do so now by following the procedure above, but do not add them to your spec repo. 
+2. Notify Chrome Developer Relations that you are shipping your feature in an upcoming release of Chrome. We will work with you to publish a fuller documentation set on [MDN](https://developer.mozilla.org/en-US/docs/Web/Reference).
+3. Remove the MVP documentation from your spec repo. Duplicate documentation is hard to keep in sync and hence, and antipattern.
+4. Your responsibilities are officially complete (though we wouldn't complain if you helped us keep an eye on MDN).
