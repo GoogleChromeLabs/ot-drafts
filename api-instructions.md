@@ -1,6 +1,6 @@
 # For Interfaces, Events, or Members of Either
 
-Thank you for helping the web platform. 
+Thank you for helping document the web platform. 
 
 ## A Note about Code Examples
 
@@ -8,3 +8,7 @@ Code examples are not applications. Many practices of application building are n
 
 ## Instructions
 
+1. In the `drafts/` folder location the folder named for the interface you want to document.
+2. Do one of the following:
+  * Fork the repo, edit the files you located above, then submit a pull request to this one.
+  * Download the contents of the files you located above, edit them and email them to jmedley@.
