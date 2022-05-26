@@ -2,20 +2,18 @@
 layout: 'layouts/doc-post.njk'
 title: GPUCompilationInfo
 description: >
-  The **`GPUCompilationInfo`** interface of the {{domxref('','','','true')}} 
+  The **`GPUCompilationInfo`** interface of the  
 
 date: 
 ---
 
-The **`GPUCompilationInfo`** interface of the {{domxref('','','','true')}} 
+The **`GPUCompilationInfo`** interface of the  
 
 
 
 
 
- ## Constructor## Constructor
-
-- {{domxref("GPUCompilationInfo.GPUCompilationInfo()")}}
+ ## Constructor- {{domxref("GPUCompilationInfo.GPUCompilationInfo()")}}
   - : Creates a new `GPUCompilationInfo` object.
 
 

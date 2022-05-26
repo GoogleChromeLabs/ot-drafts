@@ -2,20 +2,18 @@
 layout: 'layouts/doc-post.njk'
 title: GPURenderBundle
 description: >
-  The **`GPURenderBundle`** interface of the {{domxref('','','','true')}} 
+  The **`GPURenderBundle`** interface of the  
 
 date: 
 ---
 
-The **`GPURenderBundle`** interface of the {{domxref('','','','true')}} 
+The **`GPURenderBundle`** interface of the  
 
 
 
 
 
- ## Constructor## Constructor
-
-- {{domxref("GPURenderBundle.GPURenderBundle()")}}
+ ## Constructor- {{domxref("GPURenderBundle.GPURenderBundle()")}}
   - : Creates a new `GPURenderBundle` object.
 
 

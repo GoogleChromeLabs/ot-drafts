@@ -2,20 +2,18 @@
 layout: 'layouts/doc-post.njk'
 title: GPUCommandEncoder
 description: >
-  The **`GPUCommandEncoder`** interface of the {{domxref('','','','true')}} 
+  The **`GPUCommandEncoder`** interface of the  
 
 date: 
 ---
 
-The **`GPUCommandEncoder`** interface of the {{domxref('','','','true')}} 
+The **`GPUCommandEncoder`** interface of the  
 
 
 
 
 
- ## Constructor## Constructor
-
-- {{domxref("GPUCommandEncoder.GPUCommandEncoder()")}}
+ ## Constructor- {{domxref("GPUCommandEncoder.GPUCommandEncoder()")}}
   - : Creates a new `GPUCommandEncoder` object.
 
 

@@ -2,20 +2,18 @@
 layout: 'layouts/doc-post.njk'
 title: GPUValidationError
 description: >
-  The **`GPUValidationError`** interface of the {{domxref('','','','true')}} 
+  The **`GPUValidationError`** interface of the  
 
 date: 
 ---
 
-The **`GPUValidationError`** interface of the {{domxref('','','','true')}} 
+The **`GPUValidationError`** interface of the  
 
 
 
 
 
- ## Constructor## Constructor
-
-- {{domxref("GPUValidationError.GPUValidationError()")}}
+ ## Constructor- {{domxref("GPUValidationError.GPUValidationError()")}}
   - : Creates a new `GPUValidationError` object.
 
 

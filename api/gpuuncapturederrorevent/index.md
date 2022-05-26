@@ -2,20 +2,18 @@
 layout: 'layouts/doc-post.njk'
 title: GPUUncapturedErrorEvent
 description: >
-  The **`GPUUncapturedErrorEvent`** interface of the {{domxref('','','','true')}} 
+  The **`GPUUncapturedErrorEvent`** interface of the  
 
 date: 
 ---
 
-The **`GPUUncapturedErrorEvent`** interface of the {{domxref('','','','true')}} 
+The **`GPUUncapturedErrorEvent`** interface of the  
 
 
 
 
 
- ## Constructor## Constructor
-
-- {{domxref("GPUUncapturedErrorEvent.GPUUncapturedErrorEvent()")}}
+ ## Constructor- {{domxref("GPUUncapturedErrorEvent.GPUUncapturedErrorEvent()")}}
   - : Creates a new `GPUUncapturedErrorEvent` object.
 
 

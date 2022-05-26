@@ -2,20 +2,18 @@
 layout: 'layouts/doc-post.njk'
 title: GPUQueue
 description: >
-  The **`GPUQueue`** interface of the {{domxref('','','','true')}} 
+  The **`GPUQueue`** interface of the  
 
 date: 
 ---
 
-The **`GPUQueue`** interface of the {{domxref('','','','true')}} 
+The **`GPUQueue`** interface of the  
 
 
 
 
 
- ## Constructor## Constructor
-
-- {{domxref("GPUQueue.GPUQueue()")}}
+ ## Constructor- {{domxref("GPUQueue.GPUQueue()")}}
   - : Creates a new `GPUQueue` object.
 
 

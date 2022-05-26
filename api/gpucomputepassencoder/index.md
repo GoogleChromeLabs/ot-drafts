@@ -2,20 +2,18 @@
 layout: 'layouts/doc-post.njk'
 title: GPUComputePassEncoder
 description: >
-  The **`GPUComputePassEncoder`** interface of the {{domxref('','','','true')}} 
+  The **`GPUComputePassEncoder`** interface of the  
 
 date: 
 ---
 
-The **`GPUComputePassEncoder`** interface of the {{domxref('','','','true')}} 
+The **`GPUComputePassEncoder`** interface of the  
 
 
 
 
 
- ## Constructor## Constructor
-
-- {{domxref("GPUComputePassEncoder.GPUComputePassEncoder()")}}
+ ## Constructor- {{domxref("GPUComputePassEncoder.GPUComputePassEncoder()")}}
   - : Creates a new `GPUComputePassEncoder` object.
 
 

@@ -2,20 +2,18 @@
 layout: 'layouts/doc-post.njk'
 title: GPUBuffer
 description: >
-  The **`GPUBuffer`** interface of the {{domxref('','','','true')}} 
+  The **`GPUBuffer`** interface of the  
 
 date: 
 ---
 
-The **`GPUBuffer`** interface of the {{domxref('','','','true')}} 
+The **`GPUBuffer`** interface of the  
 
 
 
 
 
- ## Constructor## Constructor
-
-- {{domxref("GPUBuffer.GPUBuffer()")}}
+ ## Constructor- {{domxref("GPUBuffer.GPUBuffer()")}}
   - : Creates a new `GPUBuffer` object.
 
 

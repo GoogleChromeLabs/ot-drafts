@@ -2,20 +2,18 @@
 layout: 'layouts/doc-post.njk'
 title: GPUTextureView
 description: >
-  The **`GPUTextureView`** interface of the {{domxref('','','','true')}} 
+  The **`GPUTextureView`** interface of the  
 
 date: 
 ---
 
-The **`GPUTextureView`** interface of the {{domxref('','','','true')}} 
+The **`GPUTextureView`** interface of the  
 
 
 
 
 
- ## Constructor## Constructor
-
-- {{domxref("GPUTextureView.GPUTextureView()")}}
+ ## Constructor- {{domxref("GPUTextureView.GPUTextureView()")}}
   - : Creates a new `GPUTextureView` object.
 
 

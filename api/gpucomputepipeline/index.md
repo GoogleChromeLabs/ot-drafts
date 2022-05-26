@@ -2,20 +2,18 @@
 layout: 'layouts/doc-post.njk'
 title: GPUComputePipeline
 description: >
-  The **`GPUComputePipeline`** interface of the {{domxref('','','','true')}} 
+  The **`GPUComputePipeline`** interface of the  
 
 date: 
 ---
 
-The **`GPUComputePipeline`** interface of the {{domxref('','','','true')}} 
+The **`GPUComputePipeline`** interface of the  
 
 
 
 
 
- ## Constructor## Constructor
-
-- {{domxref("GPUComputePipeline.GPUComputePipeline()")}}
+ ## Constructor- {{domxref("GPUComputePipeline.GPUComputePipeline()")}}
   - : Creates a new `GPUComputePipeline` object.
 
 

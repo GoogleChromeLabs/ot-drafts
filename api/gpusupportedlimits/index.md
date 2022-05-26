@@ -2,20 +2,18 @@
 layout: 'layouts/doc-post.njk'
 title: GPUSupportedLimits
 description: >
-  The **`GPUSupportedLimits`** interface of the {{domxref('','','','true')}} 
+  The **`GPUSupportedLimits`** interface of the  
 
 date: 
 ---
 
-The **`GPUSupportedLimits`** interface of the {{domxref('','','','true')}} 
+The **`GPUSupportedLimits`** interface of the  
 
 
 
 
 
- ## Constructor## Constructor
-
-- {{domxref("GPUSupportedLimits.GPUSupportedLimits()")}}
+ ## Constructor- {{domxref("GPUSupportedLimits.GPUSupportedLimits()")}}
   - : Creates a new `GPUSupportedLimits` object.
 
 

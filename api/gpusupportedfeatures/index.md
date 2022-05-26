@@ -2,20 +2,18 @@
 layout: 'layouts/doc-post.njk'
 title: GPUSupportedFeatures
 description: >
-  The **`GPUSupportedFeatures`** interface of the {{domxref('','','','true')}} 
+  The **`GPUSupportedFeatures`** interface of the  
 
 date: 
 ---
 
-The **`GPUSupportedFeatures`** interface of the {{domxref('','','','true')}} 
+The **`GPUSupportedFeatures`** interface of the  
 
 
 
 
 
- ## Constructor## Constructor
-
-- {{domxref("GPUSupportedFeatures.GPUSupportedFeatures()")}}
+ ## Constructor- {{domxref("GPUSupportedFeatures.GPUSupportedFeatures()")}}
   - : Creates a new `GPUSupportedFeatures` object.
 
 

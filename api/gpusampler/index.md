@@ -2,20 +2,18 @@
 layout: 'layouts/doc-post.njk'
 title: GPUSampler
 description: >
-  The **`GPUSampler`** interface of the {{domxref('','','','true')}} 
+  The **`GPUSampler`** interface of the  
 
 date: 
 ---
 
-The **`GPUSampler`** interface of the {{domxref('','','','true')}} 
+The **`GPUSampler`** interface of the  
 
 
 
 
 
- ## Constructor## Constructor
-
-- {{domxref("GPUSampler.GPUSampler()")}}
+ ## Constructor- {{domxref("GPUSampler.GPUSampler()")}}
   - : Creates a new `GPUSampler` object.
 
 

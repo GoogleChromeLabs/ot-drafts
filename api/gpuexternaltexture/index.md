@@ -2,20 +2,18 @@
 layout: 'layouts/doc-post.njk'
 title: GPUExternalTexture
 description: >
-  The **`GPUExternalTexture`** interface of the {{domxref('','','','true')}} 
+  The **`GPUExternalTexture`** interface of the  
 
 date: 
 ---
 
-The **`GPUExternalTexture`** interface of the {{domxref('','','','true')}} 
+The **`GPUExternalTexture`** interface of the  
 
 
 
 
 
- ## Constructor## Constructor
-
-- {{domxref("GPUExternalTexture.GPUExternalTexture()")}}
+ ## Constructor- {{domxref("GPUExternalTexture.GPUExternalTexture()")}}
   - : Creates a new `GPUExternalTexture` object.
 
 

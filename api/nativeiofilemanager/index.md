@@ -2,20 +2,18 @@
 layout: 'layouts/doc-post.njk'
 title: NativeIOFileManager
 description: >
-  The **`NativeIOFileManager`** interface of the {{domxref('','','','true')}} 
+  The **`NativeIOFileManager`** interface of the  
 
 date: 
 ---
 
-The **`NativeIOFileManager`** interface of the {{domxref('','','','true')}} 
+The **`NativeIOFileManager`** interface of the  
 
 
 
 
 
- ## Constructor## Constructor
-
-- {{domxref("NativeIOFileManager.NativeIOFileManager()")}}
+ ## Constructor- {{domxref("NativeIOFileManager.NativeIOFileManager()")}}
   - : Creates a new `NativeIOFileManager` object.
 
 

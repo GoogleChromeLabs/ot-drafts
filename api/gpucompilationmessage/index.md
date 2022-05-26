@@ -2,20 +2,18 @@
 layout: 'layouts/doc-post.njk'
 title: GPUCompilationMessage
 description: >
-  The **`GPUCompilationMessage`** interface of the {{domxref('','','','true')}} 
+  The **`GPUCompilationMessage`** interface of the  
 
 date: 
 ---
 
-The **`GPUCompilationMessage`** interface of the {{domxref('','','','true')}} 
+The **`GPUCompilationMessage`** interface of the  
 
 
 
 
 
- ## Constructor## Constructor
-
-- {{domxref("GPUCompilationMessage.GPUCompilationMessage()")}}
+ ## Constructor- {{domxref("GPUCompilationMessage.GPUCompilationMessage()")}}
   - : Creates a new `GPUCompilationMessage` object.
 
 

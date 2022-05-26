@@ -2,20 +2,18 @@
 layout: 'layouts/doc-post.njk'
 title: GPUDeviceLostInfo
 description: >
-  The **`GPUDeviceLostInfo`** interface of the {{domxref('','','','true')}} 
+  The **`GPUDeviceLostInfo`** interface of the  
 
 date: 
 ---
 
-The **`GPUDeviceLostInfo`** interface of the {{domxref('','','','true')}} 
+The **`GPUDeviceLostInfo`** interface of the  
 
 
 
 
 
- ## Constructor## Constructor
-
-- {{domxref("GPUDeviceLostInfo.GPUDeviceLostInfo()")}}
+ ## Constructor- {{domxref("GPUDeviceLostInfo.GPUDeviceLostInfo()")}}
   - : Creates a new `GPUDeviceLostInfo` object.
 
 

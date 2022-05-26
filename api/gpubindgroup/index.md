@@ -2,20 +2,18 @@
 layout: 'layouts/doc-post.njk'
 title: GPUBindGroup
 description: >
-  The **`GPUBindGroup`** interface of the {{domxref('','','','true')}} 
+  The **`GPUBindGroup`** interface of the  
 
 date: 
 ---
 
-The **`GPUBindGroup`** interface of the {{domxref('','','','true')}} 
+The **`GPUBindGroup`** interface of the  
 
 
 
 
 
- ## Constructor## Constructor
-
-- {{domxref("GPUBindGroup.GPUBindGroup()")}}
+ ## Constructor- {{domxref("GPUBindGroup.GPUBindGroup()")}}
   - : Creates a new `GPUBindGroup` object.
 
 

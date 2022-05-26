@@ -2,20 +2,18 @@
 layout: 'layouts/doc-post.njk'
 title: GPUCommandBuffer
 description: >
-  The **`GPUCommandBuffer`** interface of the {{domxref('','','','true')}} 
+  The **`GPUCommandBuffer`** interface of the  
 
 date: 
 ---
 
-The **`GPUCommandBuffer`** interface of the {{domxref('','','','true')}} 
+The **`GPUCommandBuffer`** interface of the  
 
 
 
 
 
- ## Constructor## Constructor
-
-- {{domxref("GPUCommandBuffer.GPUCommandBuffer()")}}
+ ## Constructor- {{domxref("GPUCommandBuffer.GPUCommandBuffer()")}}
   - : Creates a new `GPUCommandBuffer` object.
 
 

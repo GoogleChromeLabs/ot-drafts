@@ -2,20 +2,18 @@
 layout: 'layouts/doc-post.njk'
 title: GPUOutOfMemoryError
 description: >
-  The **`GPUOutOfMemoryError`** interface of the {{domxref('','','','true')}} 
+  The **`GPUOutOfMemoryError`** interface of the  
 
 date: 
 ---
 
-The **`GPUOutOfMemoryError`** interface of the {{domxref('','','','true')}} 
+The **`GPUOutOfMemoryError`** interface of the  
 
 
 
 
 
- ## Constructor## Constructor
-
-- {{domxref("GPUOutOfMemoryError.GPUOutOfMemoryError()")}}
+ ## Constructor- {{domxref("GPUOutOfMemoryError.GPUOutOfMemoryError()")}}
   - : Creates a new `GPUOutOfMemoryError` object.
 
 

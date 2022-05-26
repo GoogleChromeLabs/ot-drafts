@@ -2,20 +2,18 @@
 layout: 'layouts/doc-post.njk'
 title: GPURenderPipeline
 description: >
-  The **`GPURenderPipeline`** interface of the {{domxref('','','','true')}} 
+  The **`GPURenderPipeline`** interface of the  
 
 date: 
 ---
 
-The **`GPURenderPipeline`** interface of the {{domxref('','','','true')}} 
+The **`GPURenderPipeline`** interface of the  
 
 
 
 
 
- ## Constructor## Constructor
-
-- {{domxref("GPURenderPipeline.GPURenderPipeline()")}}
+ ## Constructor- {{domxref("GPURenderPipeline.GPURenderPipeline()")}}
   - : Creates a new `GPURenderPipeline` object.
 
 

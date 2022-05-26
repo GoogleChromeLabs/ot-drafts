@@ -2,20 +2,18 @@
 layout: 'layouts/doc-post.njk'
 title: GPU
 description: >
-  The **`GPU`** interface of the {{domxref('','','','true')}} 
+  The **`GPU`** interface of the  
 
 date: 
 ---
 
-The **`GPU`** interface of the {{domxref('','','','true')}} 
+The **`GPU`** interface of the  
 
 
 
 
 
- ## Constructor## Constructor
-
-- {{domxref("GPU.GPU()")}}
+ ## Constructor- {{domxref("GPU.GPU()")}}
   - : Creates a new `GPU` object.
 
 

@@ -2,20 +2,18 @@
 layout: 'layouts/doc-post.njk'
 title: GPUShaderModule
 description: >
-  The **`GPUShaderModule`** interface of the {{domxref('','','','true')}} 
+  The **`GPUShaderModule`** interface of the  
 
 date: 
 ---
 
-The **`GPUShaderModule`** interface of the {{domxref('','','','true')}} 
+The **`GPUShaderModule`** interface of the  
 
 
 
 
 
- ## Constructor## Constructor
-
-- {{domxref("GPUShaderModule.GPUShaderModule()")}}
+ ## Constructor- {{domxref("GPUShaderModule.GPUShaderModule()")}}
   - : Creates a new `GPUShaderModule` object.
 
 

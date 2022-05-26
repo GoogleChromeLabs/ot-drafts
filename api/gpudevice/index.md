@@ -2,20 +2,18 @@
 layout: 'layouts/doc-post.njk'
 title: GPUDevice
 description: >
-  The **`GPUDevice`** interface of the {{domxref('','','','true')}} 
+  The **`GPUDevice`** interface of the  
 
 date: 
 ---
 
-The **`GPUDevice`** interface of the {{domxref('','','','true')}} 
+The **`GPUDevice`** interface of the  
 
 
 
 
 
- ## Constructor## Constructor
-
-- {{domxref("GPUDevice.GPUDevice()")}}
+ ## Constructor- {{domxref("GPUDevice.GPUDevice()")}}
   - : Creates a new `GPUDevice` object.
 
 

@@ -2,20 +2,18 @@
 layout: 'layouts/doc-post.njk'
 title: GPUAdapter
 description: >
-  The **`GPUAdapter`** interface of the {{domxref('','','','true')}} 
+  The **`GPUAdapter`** interface of the  
 
 date: 
 ---
 
-The **`GPUAdapter`** interface of the {{domxref('','','','true')}} 
+The **`GPUAdapter`** interface of the  
 
 
 
 
 
- ## Constructor## Constructor
-
-- {{domxref("GPUAdapter.GPUAdapter()")}}
+ ## Constructor- {{domxref("GPUAdapter.GPUAdapter()")}}
   - : Creates a new `GPUAdapter` object.
 
 

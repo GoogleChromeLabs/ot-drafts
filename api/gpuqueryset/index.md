@@ -2,20 +2,18 @@
 layout: 'layouts/doc-post.njk'
 title: GPUQuerySet
 description: >
-  The **`GPUQuerySet`** interface of the {{domxref('','','','true')}} 
+  The **`GPUQuerySet`** interface of the  
 
 date: 
 ---
 
-The **`GPUQuerySet`** interface of the {{domxref('','','','true')}} 
+The **`GPUQuerySet`** interface of the  
 
 
 
 
 
- ## Constructor## Constructor
-
-- {{domxref("GPUQuerySet.GPUQuerySet()")}}
+ ## Constructor- {{domxref("GPUQuerySet.GPUQuerySet()")}}
   - : Creates a new `GPUQuerySet` object.
 
 

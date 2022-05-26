@@ -2,20 +2,18 @@
 layout: 'layouts/doc-post.njk'
 title: GPUPipelineLayout
 description: >
-  The **`GPUPipelineLayout`** interface of the {{domxref('','','','true')}} 
+  The **`GPUPipelineLayout`** interface of the  
 
 date: 
 ---
 
-The **`GPUPipelineLayout`** interface of the {{domxref('','','','true')}} 
+The **`GPUPipelineLayout`** interface of the  
 
 
 
 
 
- ## Constructor## Constructor
-
-- {{domxref("GPUPipelineLayout.GPUPipelineLayout()")}}
+ ## Constructor- {{domxref("GPUPipelineLayout.GPUPipelineLayout()")}}
   - : Creates a new `GPUPipelineLayout` object.
 
 

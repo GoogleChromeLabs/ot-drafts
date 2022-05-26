@@ -2,20 +2,18 @@
 layout: 'layouts/doc-post.njk'
 title: GPUCanvasContext
 description: >
-  The **`GPUCanvasContext`** interface of the {{domxref('','','','true')}} 
+  The **`GPUCanvasContext`** interface of the  
 
 date: 
 ---
 
-The **`GPUCanvasContext`** interface of the {{domxref('','','','true')}} 
+The **`GPUCanvasContext`** interface of the  
 
 
 
 
 
- ## Constructor## Constructor
-
-- {{domxref("GPUCanvasContext.GPUCanvasContext()")}}
+ ## Constructor- {{domxref("GPUCanvasContext.GPUCanvasContext()")}}
   - : Creates a new `GPUCanvasContext` object.
 
 

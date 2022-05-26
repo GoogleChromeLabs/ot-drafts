@@ -2,20 +2,18 @@
 layout: 'layouts/doc-post.njk'
 title: GPURenderPassEncoder
 description: >
-  The **`GPURenderPassEncoder`** interface of the {{domxref('','','','true')}} 
+  The **`GPURenderPassEncoder`** interface of the  
 
 date: 
 ---
 
-The **`GPURenderPassEncoder`** interface of the {{domxref('','','','true')}} 
+The **`GPURenderPassEncoder`** interface of the  
 
 
 
 
 
- ## Constructor## Constructor
-
-- {{domxref("GPURenderPassEncoder.GPURenderPassEncoder()")}}
+ ## Constructor- {{domxref("GPURenderPassEncoder.GPURenderPassEncoder()")}}
   - : Creates a new `GPURenderPassEncoder` object.
 
 
