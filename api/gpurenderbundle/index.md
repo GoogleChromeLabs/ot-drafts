@@ -1,28 +1,29 @@
 ---
+layout: 'layouts/doc-post.njk'
 title: GPURenderBundle
-slug: Web/API/GPURenderBundle
-tags:
-  - API
-  - Interface
-  - Reference
-  - GPURenderBundle
-browser-compat: api.GPURenderBundle
+description: >
+  The **`GPURenderBundle`** interface of the {{domxref('','','','true')}} 
+
+date: 
 ---
-{{DefaultAPISidebar("")}}
 
 The **`GPURenderBundle`** interface of the {{domxref('','','','true')}} 
 
-## Description
 
- 
+
+
+
+ ## Constructor## Constructor
+
+- {{domxref("GPURenderBundle.GPURenderBundle()")}}
+  - : Creates a new `GPURenderBundle` object.
+
+
 
 ## Properties
 
-
-
-### Event handlers
-
-
+- {{domxref('GPURenderBundle.')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Methods
 
@@ -50,5 +51,5 @@ And/or include a list of links to useful code samples that live elsewhere:
 
 ## Browser compatibility
 
-{{Compat}}
+{% BrowserCompat 'api.GPURenderBundle' %}
 

@@ -1,26 +1,24 @@
 ---
+layout: 'layouts/doc-post.njk'
 title: GPUBindGroupLayout
-slug: Web/API/GPUBindGroupLayout
-tags:
-  - API
-  - Interface
-  - Reference
-  - GPUBindGroupLayout
-browser-compat: api.GPUBindGroupLayout
+description: >
+  The **`GPUBindGroupLayout`** interface of the {{domxref('','','','true')}} 
+
+date: 
 ---
-{{DefaultAPISidebar("")}}
 
 The **`GPUBindGroupLayout`** interface of the {{domxref('','','','true')}} 
 
-## Description
-
- 
-
-## Properties
 
 
 
-### Event handlers
+
+ ## Constructor## Constructor
+
+- {{domxref("GPUBindGroupLayout.GPUBindGroupLayout()")}}
+  - : Creates a new `GPUBindGroupLayout` object.
+
+
 
 
 
@@ -50,5 +48,5 @@ And/or include a list of links to useful code samples that live elsewhere:
 
 ## Browser compatibility
 
-{{Compat}}
+{% BrowserCompat 'api.GPUBindGroupLayout' %}
 

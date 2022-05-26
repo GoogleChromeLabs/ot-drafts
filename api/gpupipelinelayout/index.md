@@ -1,28 +1,29 @@
 ---
+layout: 'layouts/doc-post.njk'
 title: GPUPipelineLayout
-slug: Web/API/GPUPipelineLayout
-tags:
-  - API
-  - Interface
-  - Reference
-  - GPUPipelineLayout
-browser-compat: api.GPUPipelineLayout
+description: >
+  The **`GPUPipelineLayout`** interface of the {{domxref('','','','true')}} 
+
+date: 
 ---
-{{DefaultAPISidebar("")}}
 
 The **`GPUPipelineLayout`** interface of the {{domxref('','','','true')}} 
 
-## Description
 
- 
+
+
+
+ ## Constructor## Constructor
+
+- {{domxref("GPUPipelineLayout.GPUPipelineLayout()")}}
+  - : Creates a new `GPUPipelineLayout` object.
+
+
 
 ## Properties
 
-
-
-### Event handlers
-
-
+- {{domxref('GPUPipelineLayout.')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Methods
 
@@ -50,5 +51,5 @@ And/or include a list of links to useful code samples that live elsewhere:
 
 ## Browser compatibility
 
-{{Compat}}
+{% BrowserCompat 'api.GPUPipelineLayout' %}
 

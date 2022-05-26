@@ -1,30 +1,37 @@
 ---
+layout: 'layouts/doc-post.njk'
 title: GPURenderBundleEncoder
-slug: Web/API/GPURenderBundleEncoder
-tags:
-  - API
-  - Interface
-  - Reference
-  - GPURenderBundleEncoder
-browser-compat: api.GPURenderBundleEncoder
+description: >
+  The **`GPURenderBundleEncoder`** interface of the {{domxref('','','','true')}} 
+
+date: 
 ---
-{{DefaultAPISidebar("")}}
 
 The **`GPURenderBundleEncoder`** interface of the {{domxref('','','','true')}} 
 
-## Description
 
- 
+
+
+
+ ## Constructor## Constructor
+
+- {{domxref("GPURenderBundleEncoder.GPURenderBundleEncoder()")}}
+  - : Creates a new `GPURenderBundleEncoder` object.
+
+
 
 ## Properties
 
-
-
-### Event handlers
-
-
+- {{domxref('GPURenderBundleEncoder.')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Methods
+
+- {{domxref('GPURenderBundleEncoder.finish')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPURenderBundleEncoder.setBindGroup')}}
+  - : Returns // Replace with description of what this method returns.
 
 
 
@@ -50,5 +57,5 @@ And/or include a list of links to useful code samples that live elsewhere:
 
 ## Browser compatibility
 
-{{Compat}}
+{% BrowserCompat 'api.GPURenderBundleEncoder' %}
 

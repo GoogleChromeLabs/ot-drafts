@@ -1,28 +1,29 @@
 ---
+layout: 'layouts/doc-post.njk'
 title: GPUCompilationInfo
-slug: Web/API/GPUCompilationInfo
-tags:
-  - API
-  - Interface
-  - Reference
-  - GPUCompilationInfo
-browser-compat: api.GPUCompilationInfo
+description: >
+  The **`GPUCompilationInfo`** interface of the {{domxref('','','','true')}} 
+
+date: 
 ---
-{{DefaultAPISidebar("")}}
 
 The **`GPUCompilationInfo`** interface of the {{domxref('','','','true')}} 
 
-## Description
 
- 
+
+
+
+ ## Constructor## Constructor
+
+- {{domxref("GPUCompilationInfo.GPUCompilationInfo()")}}
+  - : Creates a new `GPUCompilationInfo` object.
+
+
 
 ## Properties
 
-
-
-### Event handlers
-
-
+- {{domxref('GPUCompilationInfo.')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Methods
 
@@ -50,5 +51,5 @@ And/or include a list of links to useful code samples that live elsewhere:
 
 ## Browser compatibility
 
-{{Compat}}
+{% BrowserCompat 'api.GPUCompilationInfo' %}
 

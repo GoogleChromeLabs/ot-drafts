@@ -1,30 +1,85 @@
 ---
+layout: 'layouts/doc-post.njk'
 title: GPURenderPassEncoder
-slug: Web/API/GPURenderPassEncoder
-tags:
-  - API
-  - Interface
-  - Reference
-  - GPURenderPassEncoder
-browser-compat: api.GPURenderPassEncoder
+description: >
+  The **`GPURenderPassEncoder`** interface of the {{domxref('','','','true')}} 
+
+date: 
 ---
-{{DefaultAPISidebar("")}}
 
 The **`GPURenderPassEncoder`** interface of the {{domxref('','','','true')}} 
 
-## Description
 
- 
+
+
+
+ ## Constructor## Constructor
+
+- {{domxref("GPURenderPassEncoder.GPURenderPassEncoder()")}}
+  - : Creates a new `GPURenderPassEncoder` object.
+
+
 
 ## Properties
 
-
-
-### Event handlers
-
-
+- {{domxref('GPURenderPassEncoder.')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Methods
+
+- {{domxref('GPURenderPassEncoder.setViewport')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPURenderPassEncoder.setScissorRect')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPURenderPassEncoder.setBlendConstant')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPURenderPassEncoder.setStencilReference')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPURenderPassEncoder.executeBundles')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPURenderPassEncoder.beginOcclusionQuery')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPURenderPassEncoder.endOcclusionQuery')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPURenderPassEncoder.writeTimestamp')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPURenderPassEncoder.end')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPURenderPassEncoder.endPass')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPURenderPassEncoder.setBindGroup')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPURenderPassEncoder.setPipeline')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPURenderPassEncoder.setIndexBuffer')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPURenderPassEncoder.setVertexBuffer')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPURenderPassEncoder.draw')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPURenderPassEncoder.drawIndexed')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPURenderPassEncoder.drawIndirect')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPURenderPassEncoder.drawIndexedIndirect')}}
+  - : Returns // Replace with description of what this method returns.
 
 
 
@@ -50,5 +105,5 @@ And/or include a list of links to useful code samples that live elsewhere:
 
 ## Browser compatibility
 
-{{Compat}}
+{% BrowserCompat 'api.GPURenderPassEncoder' %}
 

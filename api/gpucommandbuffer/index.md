@@ -1,26 +1,24 @@
 ---
+layout: 'layouts/doc-post.njk'
 title: GPUCommandBuffer
-slug: Web/API/GPUCommandBuffer
-tags:
-  - API
-  - Interface
-  - Reference
-  - GPUCommandBuffer
-browser-compat: api.GPUCommandBuffer
+description: >
+  The **`GPUCommandBuffer`** interface of the {{domxref('','','','true')}} 
+
+date: 
 ---
-{{DefaultAPISidebar("")}}
 
 The **`GPUCommandBuffer`** interface of the {{domxref('','','','true')}} 
 
-## Description
-
- 
-
-## Properties
 
 
 
-### Event handlers
+
+ ## Constructor## Constructor
+
+- {{domxref("GPUCommandBuffer.GPUCommandBuffer()")}}
+  - : Creates a new `GPUCommandBuffer` object.
+
+
 
 
 
@@ -50,5 +48,5 @@ And/or include a list of links to useful code samples that live elsewhere:
 
 ## Browser compatibility
 
-{{Compat}}
+{% BrowserCompat 'api.GPUCommandBuffer' %}
 

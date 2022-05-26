@@ -1,30 +1,40 @@
 ---
+layout: 'layouts/doc-post.njk'
 title: GPUCanvasContext
-slug: Web/API/GPUCanvasContext
-tags:
-  - API
-  - Interface
-  - Reference
-  - GPUCanvasContext
-browser-compat: api.GPUCanvasContext
+description: >
+  The **`GPUCanvasContext`** interface of the {{domxref('','','','true')}} 
+
+date: 
 ---
-{{DefaultAPISidebar("")}}
 
 The **`GPUCanvasContext`** interface of the {{domxref('','','','true')}} 
 
-## Description
-
- 
-
-## Properties
 
 
 
-### Event handlers
+
+ ## Constructor## Constructor
+
+- {{domxref("GPUCanvasContext.GPUCanvasContext()")}}
+  - : Creates a new `GPUCanvasContext` object.
+
+
 
 
 
 ## Methods
+
+- {{domxref('GPUCanvasContext.getPreferredFormat')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPUCanvasContext.configure')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPUCanvasContext.unconfigure')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPUCanvasContext.getCurrentTexture')}}
+  - : Returns // Replace with description of what this method returns.
 
 
 
@@ -50,5 +60,5 @@ And/or include a list of links to useful code samples that live elsewhere:
 
 ## Browser compatibility
 
-{{Compat}}
+{% BrowserCompat 'api.GPUCanvasContext' %}
 

@@ -1,30 +1,67 @@
 ---
+layout: 'layouts/doc-post.njk'
 title: GPUCommandEncoder
-slug: Web/API/GPUCommandEncoder
-tags:
-  - API
-  - Interface
-  - Reference
-  - GPUCommandEncoder
-browser-compat: api.GPUCommandEncoder
+description: >
+  The **`GPUCommandEncoder`** interface of the {{domxref('','','','true')}} 
+
+date: 
 ---
-{{DefaultAPISidebar("")}}
 
 The **`GPUCommandEncoder`** interface of the {{domxref('','','','true')}} 
 
-## Description
-
- 
-
-## Properties
 
 
 
-### Event handlers
+
+ ## Constructor## Constructor
+
+- {{domxref("GPUCommandEncoder.GPUCommandEncoder()")}}
+  - : Creates a new `GPUCommandEncoder` object.
+
+
 
 
 
 ## Methods
+
+- {{domxref('GPUCommandEncoder.beginRenderPass')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPUCommandEncoder.beginComputePass')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPUCommandEncoder.copyBufferToBuffer')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPUCommandEncoder.copyBufferToTexture')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPUCommandEncoder.copyTextureToBuffer')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPUCommandEncoder.copyTextureToTexture')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPUCommandEncoder.pushDebugGroup')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPUCommandEncoder.popDebugGroup')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPUCommandEncoder.insertDebugMarker')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPUCommandEncoder.resolveQuerySet')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPUCommandEncoder.writeTimestamp')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPUCommandEncoder.clearBuffer')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPUCommandEncoder.finish')}}
+  - : Returns // Replace with description of what this method returns.
 
 
 
@@ -50,5 +87,5 @@ And/or include a list of links to useful code samples that live elsewhere:
 
 ## Browser compatibility
 
-{{Compat}}
+{% BrowserCompat 'api.GPUCommandEncoder' %}
 

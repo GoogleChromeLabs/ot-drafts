@@ -1,30 +1,34 @@
 ---
+layout: 'layouts/doc-post.njk'
 title: GPURenderPipeline
-slug: Web/API/GPURenderPipeline
-tags:
-  - API
-  - Interface
-  - Reference
-  - GPURenderPipeline
-browser-compat: api.GPURenderPipeline
+description: >
+  The **`GPURenderPipeline`** interface of the {{domxref('','','','true')}} 
+
+date: 
 ---
-{{DefaultAPISidebar("")}}
 
 The **`GPURenderPipeline`** interface of the {{domxref('','','','true')}} 
 
-## Description
 
- 
+
+
+
+ ## Constructor## Constructor
+
+- {{domxref("GPURenderPipeline.GPURenderPipeline()")}}
+  - : Creates a new `GPURenderPipeline` object.
+
+
 
 ## Properties
 
-
-
-### Event handlers
-
-
+- {{domxref('GPURenderPipeline.')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Methods
+
+- {{domxref('GPURenderPipeline.getBindGroupLayout')}}
+  - : Returns // Replace with description of what this method returns.
 
 
 
@@ -50,5 +54,5 @@ And/or include a list of links to useful code samples that live elsewhere:
 
 ## Browser compatibility
 
-{{Compat}}
+{% BrowserCompat 'api.GPURenderPipeline' %}
 

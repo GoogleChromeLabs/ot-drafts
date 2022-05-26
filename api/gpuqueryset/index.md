@@ -1,30 +1,34 @@
 ---
+layout: 'layouts/doc-post.njk'
 title: GPUQuerySet
-slug: Web/API/GPUQuerySet
-tags:
-  - API
-  - Interface
-  - Reference
-  - GPUQuerySet
-browser-compat: api.GPUQuerySet
+description: >
+  The **`GPUQuerySet`** interface of the {{domxref('','','','true')}} 
+
+date: 
 ---
-{{DefaultAPISidebar("")}}
 
 The **`GPUQuerySet`** interface of the {{domxref('','','','true')}} 
 
-## Description
 
- 
+
+
+
+ ## Constructor## Constructor
+
+- {{domxref("GPUQuerySet.GPUQuerySet()")}}
+  - : Creates a new `GPUQuerySet` object.
+
+
 
 ## Properties
 
-
-
-### Event handlers
-
-
+- {{domxref('GPUQuerySet.')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Methods
+
+- {{domxref('GPUQuerySet.destroy')}}
+  - : Returns // Replace with description of what this method returns.
 
 
 
@@ -50,5 +54,5 @@ And/or include a list of links to useful code samples that live elsewhere:
 
 ## Browser compatibility
 
-{{Compat}}
+{% BrowserCompat 'api.GPUQuerySet' %}
 

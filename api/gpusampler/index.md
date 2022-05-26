@@ -1,28 +1,29 @@
 ---
+layout: 'layouts/doc-post.njk'
 title: GPUSampler
-slug: Web/API/GPUSampler
-tags:
-  - API
-  - Interface
-  - Reference
-  - GPUSampler
-browser-compat: api.GPUSampler
+description: >
+  The **`GPUSampler`** interface of the {{domxref('','','','true')}} 
+
+date: 
 ---
-{{DefaultAPISidebar("")}}
 
 The **`GPUSampler`** interface of the {{domxref('','','','true')}} 
 
-## Description
 
- 
+
+
+
+ ## Constructor## Constructor
+
+- {{domxref("GPUSampler.GPUSampler()")}}
+  - : Creates a new `GPUSampler` object.
+
+
 
 ## Properties
 
-
-
-### Event handlers
-
-
+- {{domxref('GPUSampler.')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Methods
 
@@ -50,5 +51,5 @@ And/or include a list of links to useful code samples that live elsewhere:
 
 ## Browser compatibility
 
-{{Compat}}
+{% BrowserCompat 'api.GPUSampler' %}
 

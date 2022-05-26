@@ -1,26 +1,24 @@
 ---
+layout: 'layouts/doc-post.njk'
 title: GPU
-slug: Web/API/GPU
-tags:
-  - API
-  - Interface
-  - Reference
-  - GPU
-browser-compat: api.GPU
+description: >
+  The **`GPU`** interface of the {{domxref('','','','true')}} 
+
+date: 
 ---
-{{DefaultAPISidebar("")}}
 
 The **`GPU`** interface of the {{domxref('','','','true')}} 
 
-## Description
-
- 
-
-## Properties
 
 
 
-### Event handlers
+
+ ## Constructor## Constructor
+
+- {{domxref("GPU.GPU()")}}
+  - : Creates a new `GPU` object.
+
+
 
 
 
@@ -50,5 +48,5 @@ And/or include a list of links to useful code samples that live elsewhere:
 
 ## Browser compatibility
 
-{{Compat}}
+{% BrowserCompat 'api.GPU' %}
 

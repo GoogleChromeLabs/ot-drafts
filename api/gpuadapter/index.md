@@ -1,30 +1,43 @@
 ---
+layout: 'layouts/doc-post.njk'
 title: GPUAdapter
-slug: Web/API/GPUAdapter
-tags:
-  - API
-  - Interface
-  - Reference
-  - GPUAdapter
-browser-compat: api.GPUAdapter
+description: >
+  The **`GPUAdapter`** interface of the {{domxref('','','','true')}} 
+
+date: 
 ---
-{{DefaultAPISidebar("")}}
 
 The **`GPUAdapter`** interface of the {{domxref('','','','true')}} 
 
-## Description
 
- 
+
+
+
+ ## Constructor## Constructor
+
+- {{domxref("GPUAdapter.GPUAdapter()")}}
+  - : Creates a new `GPUAdapter` object.
+
+
 
 ## Properties
 
+- {{domxref('GPUAdapter.')}}
+  - : Returns // Replace with description of what this method returns.
 
+- {{domxref('GPUAdapter.')}}
+  - : Returns // Replace with description of what this method returns.
 
-### Event handlers
+- {{domxref('GPUAdapter.')}}
+  - : Returns // Replace with description of what this method returns.
 
-
+- {{domxref('GPUAdapter.')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Methods
+
+- {{domxref('GPUAdapter.requestDevice')}}
+  - : Returns // Replace with description of what this method returns.
 
 
 
@@ -50,5 +63,5 @@ And/or include a list of links to useful code samples that live elsewhere:
 
 ## Browser compatibility
 
-{{Compat}}
+{% BrowserCompat 'api.GPUAdapter' %}
 

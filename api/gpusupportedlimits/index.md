@@ -1,26 +1,24 @@
 ---
+layout: 'layouts/doc-post.njk'
 title: GPUSupportedLimits
-slug: Web/API/GPUSupportedLimits
-tags:
-  - API
-  - Interface
-  - Reference
-  - GPUSupportedLimits
-browser-compat: api.GPUSupportedLimits
+description: >
+  The **`GPUSupportedLimits`** interface of the {{domxref('','','','true')}} 
+
+date: 
 ---
-{{DefaultAPISidebar("")}}
 
 The **`GPUSupportedLimits`** interface of the {{domxref('','','','true')}} 
 
-## Description
-
- 
-
-## Properties
 
 
 
-### Event handlers
+
+ ## Constructor## Constructor
+
+- {{domxref("GPUSupportedLimits.GPUSupportedLimits()")}}
+  - : Creates a new `GPUSupportedLimits` object.
+
+
 
 
 
@@ -50,5 +48,5 @@ And/or include a list of links to useful code samples that live elsewhere:
 
 ## Browser compatibility
 
-{{Compat}}
+{% BrowserCompat 'api.GPUSupportedLimits' %}
 

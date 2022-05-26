@@ -1,28 +1,29 @@
 ---
+layout: 'layouts/doc-post.njk'
 title: GPUExternalTexture
-slug: Web/API/GPUExternalTexture
-tags:
-  - API
-  - Interface
-  - Reference
-  - GPUExternalTexture
-browser-compat: api.GPUExternalTexture
+description: >
+  The **`GPUExternalTexture`** interface of the {{domxref('','','','true')}} 
+
+date: 
 ---
-{{DefaultAPISidebar("")}}
 
 The **`GPUExternalTexture`** interface of the {{domxref('','','','true')}} 
 
-## Description
 
- 
+
+
+
+ ## Constructor## Constructor
+
+- {{domxref("GPUExternalTexture.GPUExternalTexture()")}}
+  - : Creates a new `GPUExternalTexture` object.
+
+
 
 ## Properties
 
-
-
-### Event handlers
-
-
+- {{domxref('GPUExternalTexture.')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Methods
 
@@ -50,5 +51,5 @@ And/or include a list of links to useful code samples that live elsewhere:
 
 ## Browser compatibility
 
-{{Compat}}
+{% BrowserCompat 'api.GPUExternalTexture' %}
 

@@ -1,28 +1,32 @@
 ---
+layout: 'layouts/doc-post.njk'
 title: GPUDeviceLostInfo
-slug: Web/API/GPUDeviceLostInfo
-tags:
-  - API
-  - Interface
-  - Reference
-  - GPUDeviceLostInfo
-browser-compat: api.GPUDeviceLostInfo
+description: >
+  The **`GPUDeviceLostInfo`** interface of the {{domxref('','','','true')}} 
+
+date: 
 ---
-{{DefaultAPISidebar("")}}
 
 The **`GPUDeviceLostInfo`** interface of the {{domxref('','','','true')}} 
 
-## Description
 
- 
+
+
+
+ ## Constructor## Constructor
+
+- {{domxref("GPUDeviceLostInfo.GPUDeviceLostInfo()")}}
+  - : Creates a new `GPUDeviceLostInfo` object.
+
+
 
 ## Properties
 
+- {{domxref('GPUDeviceLostInfo.')}}
+  - : Returns // Replace with description of what this method returns.
 
-
-### Event handlers
-
-
+- {{domxref('GPUDeviceLostInfo.')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Methods
 
@@ -50,5 +54,5 @@ And/or include a list of links to useful code samples that live elsewhere:
 
 ## Browser compatibility
 
-{{Compat}}
+{% BrowserCompat 'api.GPUDeviceLostInfo' %}
 

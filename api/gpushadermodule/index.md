@@ -1,30 +1,34 @@
 ---
+layout: 'layouts/doc-post.njk'
 title: GPUShaderModule
-slug: Web/API/GPUShaderModule
-tags:
-  - API
-  - Interface
-  - Reference
-  - GPUShaderModule
-browser-compat: api.GPUShaderModule
+description: >
+  The **`GPUShaderModule`** interface of the {{domxref('','','','true')}} 
+
+date: 
 ---
-{{DefaultAPISidebar("")}}
 
 The **`GPUShaderModule`** interface of the {{domxref('','','','true')}} 
 
-## Description
 
- 
+
+
+
+ ## Constructor## Constructor
+
+- {{domxref("GPUShaderModule.GPUShaderModule()")}}
+  - : Creates a new `GPUShaderModule` object.
+
+
 
 ## Properties
 
-
-
-### Event handlers
-
-
+- {{domxref('GPUShaderModule.')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Methods
+
+- {{domxref('GPUShaderModule.compilationInfo')}}
+  - : Returns // Replace with description of what this method returns.
 
 
 
@@ -50,5 +54,5 @@ And/or include a list of links to useful code samples that live elsewhere:
 
 ## Browser compatibility
 
-{{Compat}}
+{% BrowserCompat 'api.GPUShaderModule' %}
 

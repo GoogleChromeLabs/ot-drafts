@@ -1,28 +1,32 @@
 ---
+layout: 'layouts/doc-post.njk'
 title: GPUCompilationMessage
-slug: Web/API/GPUCompilationMessage
-tags:
-  - API
-  - Interface
-  - Reference
-  - GPUCompilationMessage
-browser-compat: api.GPUCompilationMessage
+description: >
+  The **`GPUCompilationMessage`** interface of the {{domxref('','','','true')}} 
+
+date: 
 ---
-{{DefaultAPISidebar("")}}
 
 The **`GPUCompilationMessage`** interface of the {{domxref('','','','true')}} 
 
-## Description
 
- 
+
+
+
+ ## Constructor## Constructor
+
+- {{domxref("GPUCompilationMessage.GPUCompilationMessage()")}}
+  - : Creates a new `GPUCompilationMessage` object.
+
+
 
 ## Properties
 
+- {{domxref('GPUCompilationMessage.')}}
+  - : Returns // Replace with description of what this method returns.
 
-
-### Event handlers
-
-
+- {{domxref('GPUCompilationMessage.')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Methods
 
@@ -50,5 +54,5 @@ And/or include a list of links to useful code samples that live elsewhere:
 
 ## Browser compatibility
 
-{{Compat}}
+{% BrowserCompat 'api.GPUCompilationMessage' %}
 

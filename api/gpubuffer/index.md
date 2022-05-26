@@ -1,26 +1,24 @@
 ---
+layout: 'layouts/doc-post.njk'
 title: GPUBuffer
-slug: Web/API/GPUBuffer
-tags:
-  - API
-  - Interface
-  - Reference
-  - GPUBuffer
-browser-compat: api.GPUBuffer
+description: >
+  The **`GPUBuffer`** interface of the {{domxref('','','','true')}} 
+
+date: 
 ---
-{{DefaultAPISidebar("")}}
 
 The **`GPUBuffer`** interface of the {{domxref('','','','true')}} 
 
-## Description
-
- 
-
-## Properties
 
 
 
-### Event handlers
+
+ ## Constructor## Constructor
+
+- {{domxref("GPUBuffer.GPUBuffer()")}}
+  - : Creates a new `GPUBuffer` object.
+
+
 
 
 
@@ -50,5 +48,5 @@ And/or include a list of links to useful code samples that live elsewhere:
 
 ## Browser compatibility
 
-{{Compat}}
+{% BrowserCompat 'api.GPUBuffer' %}
 

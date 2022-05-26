@@ -1,26 +1,24 @@
 ---
+layout: 'layouts/doc-post.njk'
 title: GPUValidationError
-slug: Web/API/GPUValidationError
-tags:
-  - API
-  - Interface
-  - Reference
-  - GPUValidationError
-browser-compat: api.GPUValidationError
+description: >
+  The **`GPUValidationError`** interface of the {{domxref('','','','true')}} 
+
+date: 
 ---
-{{DefaultAPISidebar("")}}
 
 The **`GPUValidationError`** interface of the {{domxref('','','','true')}} 
 
-## Description
-
- 
-
-## Properties
 
 
 
-### Event handlers
+
+ ## Constructor## Constructor
+
+- {{domxref("GPUValidationError.GPUValidationError()")}}
+  - : Creates a new `GPUValidationError` object.
+
+
 
 
 
@@ -50,5 +48,5 @@ And/or include a list of links to useful code samples that live elsewhere:
 
 ## Browser compatibility
 
-{{Compat}}
+{% BrowserCompat 'api.GPUValidationError' %}
 

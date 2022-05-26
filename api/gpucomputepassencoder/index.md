@@ -1,30 +1,52 @@
 ---
+layout: 'layouts/doc-post.njk'
 title: GPUComputePassEncoder
-slug: Web/API/GPUComputePassEncoder
-tags:
-  - API
-  - Interface
-  - Reference
-  - GPUComputePassEncoder
-browser-compat: api.GPUComputePassEncoder
+description: >
+  The **`GPUComputePassEncoder`** interface of the {{domxref('','','','true')}} 
+
+date: 
 ---
-{{DefaultAPISidebar("")}}
 
 The **`GPUComputePassEncoder`** interface of the {{domxref('','','','true')}} 
 
-## Description
-
- 
-
-## Properties
 
 
 
-### Event handlers
+
+ ## Constructor## Constructor
+
+- {{domxref("GPUComputePassEncoder.GPUComputePassEncoder()")}}
+  - : Creates a new `GPUComputePassEncoder` object.
+
+
 
 
 
 ## Methods
+
+- {{domxref('GPUComputePassEncoder.setPipeline')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPUComputePassEncoder.dispatchWorkgroups')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPUComputePassEncoder.dispatchWorkgroupsIndirect')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPUComputePassEncoder.writeTimestamp')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPUComputePassEncoder.end')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPUComputePassEncoder.endPass')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPUComputePassEncoder.dispatch')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPUComputePassEncoder.dispatchIndirect')}}
+  - : Returns // Replace with description of what this method returns.
 
 
 
@@ -50,5 +72,5 @@ And/or include a list of links to useful code samples that live elsewhere:
 
 ## Browser compatibility
 
-{{Compat}}
+{% BrowserCompat 'api.GPUComputePassEncoder' %}
 

@@ -1,30 +1,46 @@
 ---
+layout: 'layouts/doc-post.njk'
 title: GPUSupportedFeatures
-slug: Web/API/GPUSupportedFeatures
-tags:
-  - API
-  - Interface
-  - Reference
-  - GPUSupportedFeatures
-browser-compat: api.GPUSupportedFeatures
+description: >
+  The **`GPUSupportedFeatures`** interface of the {{domxref('','','','true')}} 
+
+date: 
 ---
-{{DefaultAPISidebar("")}}
 
 The **`GPUSupportedFeatures`** interface of the {{domxref('','','','true')}} 
 
-## Description
-
- 
-
-## Properties
 
 
 
-### Event handlers
+
+ ## Constructor## Constructor
+
+- {{domxref("GPUSupportedFeatures.GPUSupportedFeatures()")}}
+  - : Creates a new `GPUSupportedFeatures` object.
+
+
 
 
 
 ## Methods
+
+- {{domxref('GPUSupportedFeatures.entries')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPUSupportedFeatures.forEach')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPUSupportedFeatures.has')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPUSupportedFeatures.keys')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPUSupportedFeatures.size')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPUSupportedFeatures.values')}}
+  - : Returns // Replace with description of what this method returns.
 
 
 
@@ -50,5 +66,5 @@ And/or include a list of links to useful code samples that live elsewhere:
 
 ## Browser compatibility
 
-{{Compat}}
+{% BrowserCompat 'api.GPUSupportedFeatures' %}
 

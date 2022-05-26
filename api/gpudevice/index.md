@@ -1,32 +1,102 @@
 ---
+layout: 'layouts/doc-post.njk'
 title: GPUDevice
-slug: Web/API/GPUDevice
-tags:
-  - API
-  - Interface
-  - Reference
-  - GPUDevice
-browser-compat: api.GPUDevice
+description: >
+  The **`GPUDevice`** interface of the {{domxref('','','','true')}} 
+
+date: 
 ---
-{{DefaultAPISidebar("")}}
 
 The **`GPUDevice`** interface of the {{domxref('','','','true')}} 
 
-## Description
 
- 
+
+
+
+ ## Constructor## Constructor
+
+- {{domxref("GPUDevice.GPUDevice()")}}
+  - : Creates a new `GPUDevice` object.
+
+
 
 ## Properties
 
+- {{domxref('GPUDevice.')}}
+  - : Returns // Replace with description of what this method returns.
 
+- {{domxref('GPUDevice.')}}
+  - : Returns // Replace with description of what this method returns.
 
-### Event handlers
+- {{domxref('GPUDevice.')}}
+  - : Returns // Replace with description of what this method returns.
 
-
+- {{domxref('GPUDevice.')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Methods
 
+- {{domxref('GPUDevice.destroy')}}
+  - : Returns // Replace with description of what this method returns.
 
+- {{domxref('GPUDevice.createBuffer')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPUDevice.createTexture')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPUDevice.experimentalImportTexture')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPUDevice.createSampler')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPUDevice.importExternalTexture')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPUDevice.createBindGroup')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPUDevice.createBindGroupLayout')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPUDevice.createPipelineLayout')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPUDevice.createShaderModule')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPUDevice.createRenderPipeline')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPUDevice.createComputePipeline')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPUDevice.createRenderPipelineAsync')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPUDevice.createComputePipelineAsync')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPUDevice.createCommandEncoder')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPUDevice.createRenderBundleEncoder')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPUDevice.createQuerySet')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPUDevice.pushErrorScope')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPUDevice.popErrorScope')}}
+  - : Returns // Replace with description of what this method returns.
+
+### Event handlers
+
+- {{domxref('GPUDevice._event','')}}
+  - : Fired when // Replace with description of when this event is fired.
 
 ## Examples
 
@@ -50,5 +120,5 @@ And/or include a list of links to useful code samples that live elsewhere:
 
 ## Browser compatibility
 
-{{Compat}}
+{% BrowserCompat 'api.GPUDevice' %}
 

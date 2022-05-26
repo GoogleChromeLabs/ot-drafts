@@ -1,30 +1,37 @@
 ---
+layout: 'layouts/doc-post.njk'
 title: GPUTexture
-slug: Web/API/GPUTexture
-tags:
-  - API
-  - Interface
-  - Reference
-  - GPUTexture
-browser-compat: api.GPUTexture
+description: >
+  The **`GPUTexture`** interface of the {{domxref('','','','true')}} 
+
+date: 
 ---
-{{DefaultAPISidebar("")}}
 
 The **`GPUTexture`** interface of the {{domxref('','','','true')}} 
 
-## Description
 
- 
+
+
+
+ ## Constructor## Constructor
+
+- {{domxref("GPUTexture.GPUTexture()")}}
+  - : Creates a new `GPUTexture` object.
+
+
 
 ## Properties
 
-
-
-### Event handlers
-
-
+- {{domxref('GPUTexture.')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Methods
+
+- {{domxref('GPUTexture.createView')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPUTexture.destroy')}}
+  - : Returns // Replace with description of what this method returns.
 
 
 
@@ -50,5 +57,5 @@ And/or include a list of links to useful code samples that live elsewhere:
 
 ## Browser compatibility
 
-{{Compat}}
+{% BrowserCompat 'api.GPUTexture' %}
 

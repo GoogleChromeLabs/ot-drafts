@@ -1,26 +1,24 @@
 ---
+layout: 'layouts/doc-post.njk'
 title: GPUComputePipeline
-slug: Web/API/GPUComputePipeline
-tags:
-  - API
-  - Interface
-  - Reference
-  - GPUComputePipeline
-browser-compat: api.GPUComputePipeline
+description: >
+  The **`GPUComputePipeline`** interface of the {{domxref('','','','true')}} 
+
+date: 
 ---
-{{DefaultAPISidebar("")}}
 
 The **`GPUComputePipeline`** interface of the {{domxref('','','','true')}} 
 
-## Description
-
- 
-
-## Properties
 
 
 
-### Event handlers
+
+ ## Constructor## Constructor
+
+- {{domxref("GPUComputePipeline.GPUComputePipeline()")}}
+  - : Creates a new `GPUComputePipeline` object.
+
+
 
 
 
@@ -50,5 +48,5 @@ And/or include a list of links to useful code samples that live elsewhere:
 
 ## Browser compatibility
 
-{{Compat}}
+{% BrowserCompat 'api.GPUComputePipeline' %}
 

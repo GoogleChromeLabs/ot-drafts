@@ -1,30 +1,37 @@
 ---
+layout: 'layouts/doc-post.njk'
 title: GPUQueue
-slug: Web/API/GPUQueue
-tags:
-  - API
-  - Interface
-  - Reference
-  - GPUQueue
-browser-compat: api.GPUQueue
+description: >
+  The **`GPUQueue`** interface of the {{domxref('','','','true')}} 
+
+date: 
 ---
-{{DefaultAPISidebar("")}}
 
 The **`GPUQueue`** interface of the {{domxref('','','','true')}} 
 
-## Description
 
- 
+
+
+
+ ## Constructor## Constructor
+
+- {{domxref("GPUQueue.GPUQueue()")}}
+  - : Creates a new `GPUQueue` object.
+
+
 
 ## Properties
 
-
-
-### Event handlers
-
-
+- {{domxref('GPUQueue.')}}
+  - : Returns // Replace with description of what this method returns.
 
 ## Methods
+
+- {{domxref('GPUQueue.submit')}}
+  - : Returns // Replace with description of what this method returns.
+
+- {{domxref('GPUQueue.onSubmittedWorkDone')}}
+  - : Returns // Replace with description of what this method returns.
 
 
 
@@ -50,5 +57,5 @@ And/or include a list of links to useful code samples that live elsewhere:
 
 ## Browser compatibility
 
-{{Compat}}
+{% BrowserCompat 'api.GPUQueue' %}
 

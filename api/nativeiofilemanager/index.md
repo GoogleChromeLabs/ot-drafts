@@ -1,26 +1,24 @@
 ---
+layout: 'layouts/doc-post.njk'
 title: NativeIOFileManager
-slug: Web/API/NativeIOFileManager
-tags:
-  - API
-  - Interface
-  - Reference
-  - NativeIOFileManager
-browser-compat: api.NativeIOFileManager
+description: >
+  The **`NativeIOFileManager`** interface of the {{domxref('','','','true')}} 
+
+date: 
 ---
-{{securecontext_header}}{{DefaultAPISidebar("")}}
 
 The **`NativeIOFileManager`** interface of the {{domxref('','','','true')}} 
 
-## Description
-
- 
-
-## Properties
 
 
 
-### Event handlers
+
+ ## Constructor## Constructor
+
+- {{domxref("NativeIOFileManager.NativeIOFileManager()")}}
+  - : Creates a new `NativeIOFileManager` object.
+
+
 
 
 
@@ -50,5 +48,5 @@ And/or include a list of links to useful code samples that live elsewhere:
 
 ## Browser compatibility
 
-{{Compat}}
+{% BrowserCompat 'api.NativeIOFileManager' %}
 

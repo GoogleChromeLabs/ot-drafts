@@ -1,26 +1,24 @@
 ---
+layout: 'layouts/doc-post.njk'
 title: GPUOutOfMemoryError
-slug: Web/API/GPUOutOfMemoryError
-tags:
-  - API
-  - Interface
-  - Reference
-  - GPUOutOfMemoryError
-browser-compat: api.GPUOutOfMemoryError
+description: >
+  The **`GPUOutOfMemoryError`** interface of the {{domxref('','','','true')}} 
+
+date: 
 ---
-{{DefaultAPISidebar("")}}
 
 The **`GPUOutOfMemoryError`** interface of the {{domxref('','','','true')}} 
 
-## Description
-
- 
-
-## Properties
 
 
 
-### Event handlers
+
+ ## Constructor## Constructor
+
+- {{domxref("GPUOutOfMemoryError.GPUOutOfMemoryError()")}}
+  - : Creates a new `GPUOutOfMemoryError` object.
+
+
 
 
 
@@ -50,5 +48,5 @@ And/or include a list of links to useful code samples that live elsewhere:
 
 ## Browser compatibility
 
-{{Compat}}
+{% BrowserCompat 'api.GPUOutOfMemoryError' %}
 
